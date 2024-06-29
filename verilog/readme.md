@@ -28,4 +28,4 @@
 
 ### List of designs and their Verilog codes
 
-[Please click me to see the list](https://github.com/dicdesign/asic_edatools/blob/main/list_verilogCodes.md)
+[Please click me to see the list](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/verilog/list_experiments.md)
