@@ -2,4 +2,4 @@
 
 1. [Half adder](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/verilog/dataFlowModelling/halfadder)
 
-2. [Full adder](https://github.com/dicdesign/workshop_may6th_25th_2024/tree/main/week1/dataFlowModelling/fulladder)
+2. [Full adder](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/verilog/dataFlowModelling/fulladder)
