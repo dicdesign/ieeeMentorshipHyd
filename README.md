@@ -17,3 +17,6 @@ List of tools:<br>
 [Run this script in terminal for all ASIC EDA tools](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/asicTools/asic_tools_set.sh)
 
 5. [klayout](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/asicTools/klayout.md) - Layout editor
+
+#### RTL-to-GDSII complete set of EDA tools - OpenLane
+[Click me to install](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/asicTools/openlaneInstall.sh)
