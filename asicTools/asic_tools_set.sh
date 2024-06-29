@@ -129,7 +129,7 @@ echo "                           Cloning iverilog and will start installation of
 echo "                                                                                                "
 echo "                                                                                                "
 echo "************************************************************************************************"
-sudo apt install -y autoconf gperf make gcc g++ bison flex
+sudo apt install -y autoconf gperf make gcc g++ bison flex --assume-yes
 git clone https://github.com/steveicarus/iverilog.git
 cd iverilog
 chmod 777 autoconf.sh
