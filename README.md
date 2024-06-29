@@ -15,3 +15,5 @@ List of tools:<br>
 4. iverilog - Verilog simulator<br>
 
 [Run this script in terminal for all ASIC EDA tools](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/asicTools/asic_tools_set.sh)
+
+5. [klayout](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/asicTools/klayout.md) - Layout editor
