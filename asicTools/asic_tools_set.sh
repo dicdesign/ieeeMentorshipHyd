@@ -137,7 +137,7 @@ chmod 777 autoconf.sh
 ./configure
 make
 sudo make install
-sudo apt-get -y install gtkwave
+sudo apt-get -y install gtkwave --assume-yes
 cd
 cd
 cd
