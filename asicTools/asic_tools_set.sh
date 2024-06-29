@@ -34,7 +34,9 @@ cd
 cd
 echo
 echo
-sudo apt-get update
+sudo apt-get update --assume-yes
+sudo apt-get upgrade --assume-yes
+sudo apt install -y build-essential python3 python3-venv make git --assume-yes
 sudo apt-get install m4 --assume-yes
 sudo apt-get install tcsh --assume-yes
 sudo apt-get install csh --assume-yes
@@ -43,7 +45,6 @@ sudo apt-get install tcl-dev tk-dev --assume-yes
 sudo apt-get install libcairo2-dev --assume-yes
 sudo apt-get install mesa-common-dev libglu1-mesa-dev --assume-yes
 sudo apt-get install libncurses-dev --assume-yes
-##sudo apt install git --assume-yes
 cd 
 echo
 echo
@@ -54,7 +55,7 @@ cd
 git clone https://github.com/RTimothyEdwards/magic.git
 cd magic
 ./configure 
-sudo make
+make
 sudo make install
 cd
 echo
@@ -84,7 +85,7 @@ cd
 cd
 git clone https://github.com/YosysHQ/yosys.git
 cd yosys
-sudo make
+make
 sudo make install
 cd
 cd
@@ -113,7 +114,7 @@ sudo apt install cmake --assume-yes
 sudo apt-get update -y --assume-yes
 sudo apt-get install -y swig --assume-yes
 cmake ..
-sudo make
+make
 sudo make install
 cd
 cd
