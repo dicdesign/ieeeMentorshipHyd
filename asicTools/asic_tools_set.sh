@@ -85,6 +85,7 @@ cd
 cd
 git clone https://github.com/YosysHQ/yosys.git
 cd yosys
+git submodule update --init
 make
 sudo make install
 cd
