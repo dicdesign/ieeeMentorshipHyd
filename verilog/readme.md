@@ -24,7 +24,7 @@
 [Examples of Verilog generate statement](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/verilog/verilogGenerateStatement.md)
 
 ### ModelSim related
-[Find here modelsim related information](https://github.com/dicdesign/workshop_may6th_25th_2024/tree/main/week1/modelsim)
+[Find here modelsim related information](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/verilog/modelsim)
 
 ### List of designs and their Verilog codes
 
