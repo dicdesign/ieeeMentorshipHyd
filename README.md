@@ -5,7 +5,7 @@ This repository is to cater the required files for IEEE mentorship programme-202
 [Click me here to learn Verilog HDL](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/verilog/readme.md)
 
 #### FPGA tools to download from
-1. AMD's Vivado [Click me here]{https://www.xilinx.com/support/download.html)
+1. AMD's Vivado [Click me here](https://www.xilinx.com/support/download.html)
 2. Intel's Quartus [Click me here](https://www.intel.com/content/www/us/en/software-kit/825278/intel-quartus-prime-lite-edition-design-software-version-23-1-1-for-windows.html)
 
 #### All ASIC tools or RTL-to-GDSII EDA tool required to have the following [Ensure at least 100GB free space and 8GB RAM on host]
