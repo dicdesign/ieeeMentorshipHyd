@@ -12,6 +12,6 @@ List of tools:<br>
 1. magic - Layout tool<br>
 2. yosys - Synthesis tool<br>
 3. OpenSTA - Static Timing Analysis tool<br>
-4. iverilog - verilog simulator<br>
+4. iverilog - Verilog simulator<br>
 
 [Run this script in terminal for all ASIC EDA tools](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/asicTools/asic_tools_set.sh)
