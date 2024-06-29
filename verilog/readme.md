@@ -14,7 +14,7 @@
 
 - [Switch-level modelling](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/verilog/switchLevelModelling)
 - [Gate-level modelling](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/verilog/gateLevelModelling)
-- [Dataflow level modelling](https://github.com/dicdesign/workshop_may6th_25th_2024/tree/main/week1/dataFlowModelling)
+- [Dataflow level modelling](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/verilog/dataFlowModelling)
 - [Structural modelling](https://github.com/dicdesign/workshop_may6th_25th_2024/tree/main/week1/structuralModelling) 
 
 ### Demonstration of how to write simulation results to file.
