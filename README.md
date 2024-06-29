@@ -4,6 +4,9 @@ This repository is to cater the required files for IEEE mentorship programme-202
 #### Learn Verilog HDL 
 [Click me here to learn Verilog HDL](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/verilog/readme.md)
 
+#### Yosys - synthesis tool
+[yosys - synthesis tool](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/collaterals%20of%20synthesis%20tool%20yosys)
+
 #### ASIC EDA Tools Installation related script file. [Tested on Ubuntu 22.04 LTS (Jammy Jellyfish)]
 List of tools:<br>
 1. magic - Layout tool<br>
