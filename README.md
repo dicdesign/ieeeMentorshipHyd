@@ -4,6 +4,13 @@ This repository is to cater the required files for IEEE mentorship programme-202
 #### Learn Verilog HDL 
 [Click me here to learn Verilog HDL](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/verilog/readme.md)
 
+#### FPGA - Intel(formerly Altera) vs AMD(formerly Xilinx)
+
+[Altera vs Xilinx](https://docs.google.com/presentation/d/1UjuVQYawC5oMuDx1xbk9JFqz_DkDWDaYbZRrK8cdNzs/edit?usp=sharing)
+
+#### FPGA Design flow vs ASIC Design flow
+[Diffrences are here](https://docs.google.com/presentation/d/1EzmxAGp5TPo06JAFgg3ooUfq1WtbkcLWAxfCHvhAtz4/edit?usp=sharing)
+
 #### FPGA tools to download from
 1. AMD's Vivado [Click me here](https://www.xilinx.com/support/download.html)
 2. Intel's Quartus [Click me here](https://www.intel.com/content/www/us/en/software-kit/825278/intel-quartus-prime-lite-edition-design-software-version-23-1-1-for-windows.html)
