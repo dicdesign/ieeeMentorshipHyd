@@ -35,7 +35,7 @@ https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/internshipRoadmap/4%20c
 5. [other types of cells](
 https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/internshipRoadmap/4%20cover%20in%20october/be_design_using_openlane/other_cells.md)<br/>
 6. [why do CTS](
-https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/internshipRoadmap/4%20cover%20in%20october/be_design_using_openlane/main/why_CTS.md)
+https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/internshipRoadmap/4%20cover%20in%20october/be_design_using_openlane/why_CTS.md)
 7. [Know about Antenna checks](
 https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/internshipRoadmap/4%20cover%20in%20october/be_design_using_openlane/what_is_antenna_checks.md)
 
