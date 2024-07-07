@@ -2,7 +2,7 @@
 
 #### Month-wise learning activities.
 
-[July- Learn Verilog and Simulation](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/1%20cover%20in%20july)
+[July- Learn Verilog and Simulation](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/1%20cover%20in%20july#readme)
 
 [August - Learn FPGA Design Flow](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/2%20cover%20in%20august)
 
