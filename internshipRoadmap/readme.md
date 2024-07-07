@@ -4,7 +4,7 @@
 
 [July- Learn Verilog and Simulation](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/1%20cover%20in%20july#readme)
 
-[August - Learn FPGA Design Flow](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/2%20cover%20in%20august)
+[August - Learn FPGA Design Flow](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/internshipRoadmap/2%20cover%20in%20august/readme.md)
 
 [September - Learn ASIC Frontend Design Flow](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/3%20cover%20in%20september)
 
