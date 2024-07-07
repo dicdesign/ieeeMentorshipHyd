@@ -2,7 +2,7 @@
 This repository is to cater the required files for IEEE mentorship programme-2024, Hyderabad.
 
 #### Roadmap to the Internship
-[Click me to know the roadmap](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap)
+[Click me to know the Internship-Roadmap for learning activities](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/internshipRoadmap/readme.md)
 
 
 #### FPGA tools to download from
