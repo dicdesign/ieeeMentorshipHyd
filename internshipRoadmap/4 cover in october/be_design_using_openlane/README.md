@@ -5,7 +5,7 @@
 1. [Input files to do the Physical design](
 https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/internshipRoadmap/4%20cover%20in%20october/be_design_using_openlane/what_inputs_required_for_PD.md)<br/>
 2. [What are the LEF files and their types](
-https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/internshipRoadmap/4%20cover%20in%20october/be_design_using_openlane/main/LEF_files.md)<br/>
+https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/internshipRoadmap/4%20cover%20in%20october/be_design_using_openlane/LEF_files.md)<br/>
 3. [What are the DEF files? and Their types](
 https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/internshipRoadmap/4%20cover%20in%20october/be_design_using_openlane/About_DEF_files.md)<br/>
 
