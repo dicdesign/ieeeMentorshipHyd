@@ -6,6 +6,6 @@
 
 [August - Learn FPGA Design Flow](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/internshipRoadmap/2%20cover%20in%20august/readme.md)
 
-[September - Learn ASIC Frontend Design Flow](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/3%20cover%20in%20september)
+[September - Learn ASIC Frontend Design Flow](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/internshipRoadmap/3%20cover%20in%20september/readme.md)
 
 [October - Learn ASIC Backend Design Flow also known as Physical Design Flow](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/4%20cover%20in%20october)
