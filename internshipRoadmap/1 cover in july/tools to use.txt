@@ -1,0 +1,6 @@
+For simulation:
+
+
+1. Modelsim - Intel's FPGA starter edition [Free]
+[license required for Modelsim - Intel's FPGA edition]
+2. Questa FPGA Starter Edition[ A zero cost license required for Questa FPGA Starter Edition.]

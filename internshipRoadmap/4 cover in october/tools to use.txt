@@ -1,0 +1,5 @@
+EDA tools For simulation and synthesis:
+
+1. iverilog for simulation
+2. gtkwave waveform viewer
+3. OpenLane for RTL to GDSII

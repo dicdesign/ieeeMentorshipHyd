@@ -1,0 +1,4 @@
+For simulation and synthesis:
+
+1. Vivado
+2. Quartus

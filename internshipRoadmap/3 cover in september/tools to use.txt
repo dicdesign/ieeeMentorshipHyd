@@ -1,0 +1,6 @@
+EDA tools For simulation and synthesis:
+
+1. iverilog for simulation
+2. gtkwave waveform viewer
+3. yosys for synthesis
+4. OpenSTA for timing analysis
