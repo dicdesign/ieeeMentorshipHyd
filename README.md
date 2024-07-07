@@ -4,8 +4,7 @@ This repository is to cater the required files for IEEE mentorship programme-202
 #### Roadmap to the Internship
 [Click me to know the roadmap](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap)
 
-#### Learn Verilog HDL 
-[Click me here to learn Verilog HDL](https://github.com/dicdesign/ieeeMentorshipHyd/blob/main/verilog/readme.md)
+
 
 #### FPGA - Intel(formerly Altera) vs AMD(formerly Xilinx)
 
