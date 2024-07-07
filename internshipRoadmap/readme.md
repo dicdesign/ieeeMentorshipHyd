@@ -2,10 +2,10 @@
 
 #### Month-wise learning activities.
 
-[July](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/1%20cover%20in%20july)
+[July- Learn Verilog and Simulation](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/1%20cover%20in%20july)
 
-[August](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/2%20cover%20in%20august)
+[August - Learn FPGA Design Flow](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/2%20cover%20in%20august)
 
-[September](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/3%20cover%20in%20september)
+[September - Learn ASIC Frontend Design Flow](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/3%20cover%20in%20september)
 
-[October](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/4%20cover%20in%20october)
+[October - Learn ASIC Backend Design Flow also known as Physical Design Flow](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/4%20cover%20in%20october)
