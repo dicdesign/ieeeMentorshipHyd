@@ -5,6 +5,9 @@
 #### Yosys - synthesis tool
 [yosys - synthesis tool](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/collaterals%20of%20synthesis%20tool%20yosys)
 
+#### OpenSTA - Static Timing Analysis tool
+[OpenSTA examples](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap/3%20cover%20in%20september/OpenSTA)
+
 #### Go back to Internship-Roadmap
 [Click me to go back to Internship-Roadmap](https://github.com/dicdesign/ieeeMentorshipHyd/tree/main/internshipRoadmap#readme)
 
